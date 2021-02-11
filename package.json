@@ -10,7 +10,7 @@
   "license": "ISC",
   "devDependencies": {
     "parcel": "1.12.4",
-    "sass": "1.26.10",
+    "sass": "1.32.7",
     "typescript": "3.9.7"
   }
 }
